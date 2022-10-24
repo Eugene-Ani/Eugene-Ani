@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Eugene 👋
+- 📫 How to reach me: delatsvet@gmail.com or https://t.me/Evgeny_Ani
+- 🌱 I’m currently studying UX/UI design
 <!--
 **Eugene-Ani/Eugene-Ani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
