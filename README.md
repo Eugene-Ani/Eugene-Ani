@@ -1,7 +1,7 @@
 # Hi, I'm Eugene 👋
 Junior software engineer with more than years of studying experience.
 
-I did a lot of interesting things in my work, details can be seen in social networks.
+I did a lot of interesting things in my work, details can be seen in social networks. This is all real production.
 
 ## How to reach me:
 - 📫 delatsvet@gmail.com
