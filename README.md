@@ -9,7 +9,7 @@ I am familiar with some programs:
 I did a lot of interesting things in my work, details can be seen in social networks. This is all real production.
 
 ## How to reach me:  
-![](https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white&style=for-the-badge) https://t.me/Evgeny_Ani   
+![https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white&style=for-the-badge] [https://t.me/Evgeny_Ani]    
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) delatsvet@gmail.com  
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/eugene-anisimov-ba985177/  
 ![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white) https://www.behance.net/55fdecfd  
@@ -23,6 +23,19 @@ I did a lot of interesting things in my work, details can be seen in social netw
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/eugene-anisimov-ba985177/ ">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <!--
