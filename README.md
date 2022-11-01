@@ -32,7 +32,7 @@ I did a lot of interesting things in my work, details can be seen in social netw
   <a href="https://www.behance.net/55fdecfd">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
-<a href="https://www.facebook.com/profile.php?id=100001290759775">
+<a href="https://www.facebook.com/settings?tab=account&section=username">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 </div>
